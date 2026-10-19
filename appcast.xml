@@ -3,18 +3,18 @@
     <channel>
         <title>Sweep</title>
         <item>
-            <title>0.1.2</title>
-            <pubDate>Mon, 19 Oct 2026 09:55:35 +0200</pubDate>
+            <title>0.1.3</title>
+            <pubDate>Mon, 19 Oct 2026 10:03:32 +0200</pubDate>
             <link>https://github.com/magnusberggren/sweep</link>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<h2>Sweep 0.1.2</h2><ul>
-<li>Plain-language verdicts: safe / usually fine / your call</li>
+            <description><![CDATA[<h2>Sweep 0.1.3</h2><ul>
+<li>Window can't shrink below content size (fixes clipped top after resize)</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/magnusberggren/sweep-releases/releases/download/v0.1.2/Sweep-0.1.2.dmg" length="2975462" type="application/octet-stream" sparkle:edSignature="zBKVKGiUT6ww7FsaWIg8UVb4NvPm+sS6yPPRMD4z65+YiOMxdps3E4p8C+PYZ3CaFZm0krin7vUpZsZzsspiBg=="/>
+            <enclosure url="https://github.com/magnusberggren/sweep-releases/releases/download/v0.1.3/Sweep-0.1.3.dmg" length="2975570" type="application/octet-stream" sparkle:edSignature="2Z5XT+B1022AbHdculKf0f3/bT3E1A6q/r9d6oLaZXirObKdZvDsH/Jpo7A7ShiM7+/tGW/bQqOCUi/5oFFXCw=="/>
         </item>
     </channel>
 </rss>
