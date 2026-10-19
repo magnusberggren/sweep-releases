@@ -3,21 +3,18 @@
     <channel>
         <title>Sweep</title>
         <item>
-            <title>0.1.1</title>
-            <pubDate>Mon, 19 Oct 2026 09:46:24 +0200</pubDate>
+            <title>0.1.2</title>
+            <pubDate>Mon, 19 Oct 2026 09:55:35 +0200</pubDate>
             <link>https://github.com/magnusberggren/sweep</link>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<h2>Sweep 0.1.1</h2><ul>
-<li>release.sh: re-sign Sparkle components for notarization</li>
-<li>release.sh: refuse to publish unnotarized builds unless ALLOW_UNNOTARIZED=1</li>
-<li>Add Sparkle auto-updates and release pipeline</li>
-<li>Add Insights: habit-based suggestions</li>
+            <description><![CDATA[<h2>Sweep 0.1.2</h2><ul>
+<li>Plain-language verdicts: safe / usually fine / your call</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/magnusberggren/sweep-releases/releases/download/v0.1.1/Sweep-0.1.1.dmg" length="2924158" type="application/octet-stream" sparkle:edSignature="haBmFRf3ZBCzP2ggc6+e5ZFae4IwKBuAMSrJolm2WzlToJAWJkG1Xn8eX30vX54ACUWbxuLg1e0CJsrEMLGqAg=="/>
+            <enclosure url="https://github.com/magnusberggren/sweep-releases/releases/download/v0.1.2/Sweep-0.1.2.dmg" length="2975462" type="application/octet-stream" sparkle:edSignature="zBKVKGiUT6ww7FsaWIg8UVb4NvPm+sS6yPPRMD4z65+YiOMxdps3E4p8C+PYZ3CaFZm0krin7vUpZsZzsspiBg=="/>
         </item>
     </channel>
 </rss>
