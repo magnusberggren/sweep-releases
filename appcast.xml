@@ -3,18 +3,18 @@
     <channel>
         <title>Sweep</title>
         <item>
-            <title>0.1.5</title>
-            <pubDate>Mon, 19 Oct 2026 10:46:06 +0200</pubDate>
+            <title>0.1.6</title>
+            <pubDate>Fri, 23 Oct 2026 09:45:08 +0200</pubDate>
             <link>https://github.com/magnusberggren/sweep</link>
-            <sparkle:version>9</sparkle:version>
-            <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>0.1.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<h2>Sweep 0.1.5</h2><ul>
-<li>Sidebar: respect title bar inset on macOS 26</li>
+            <description><![CDATA[<h2>Sweep 0.1.6</h2><ul>
+<li>Fix pages overflowing the window (top cut off) and Uninstaller crash</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/magnusberggren/sweep-releases/releases/download/v0.1.5/Sweep-0.1.5.dmg" length="2978181" type="application/octet-stream" sparkle:edSignature="rwGRcMglNDeuNWERe2kIbjZZUZTxI0lb5LxpN3AXf6sBBaVXljWXadrxiqpR+qoApEjmoHmdcunV0g6zN8HcBw=="/>
+            <enclosure url="https://github.com/magnusberggren/sweep-releases/releases/download/v0.1.6/Sweep-0.1.6.dmg" length="2892624" type="application/octet-stream" sparkle:edSignature="szJusu1SGu0dVvjC3uzLMgIWXlYjW6UWb3kPPf7hHwQZWKXZnp85oSMZE3XeJrkSqLB6JO+IbN7kZRyMAc0TAw=="/>
         </item>
     </channel>
 </rss>
